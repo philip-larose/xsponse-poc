@@ -1,2 +1,2 @@
-(XSPONSE_Logo.png)
+[](XSPONSE_Logo.png)
 # Welcome to XSPONSE!
