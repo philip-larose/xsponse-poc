@@ -5,7 +5,7 @@ The XSPONSE Service Guide documents all the features common to the XSPONSE websi
 ## Sections in the XSPONSE Service Guide
 1. [Getting Started](getting-started.md)
   * Core concepts
-  * Creating your administrator account
+  * [Creating your administrator account](https://github.com/philip-murdoch/xsponse-poc/blob/gh-pages/service-guide/getting-started.md#setting-up-your-administrator-account)
 2. [Account Manager](account-manager.md)
   * Overview of accounts
   * Viewing your company information
